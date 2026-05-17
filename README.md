@@ -1,4 +1,6 @@
-## Hi there 👋
+Evidence-based medicine researcher and MD candidate at McMaster University. Building tools to rigorously apply machine intelligence to evidence synthesis, clinical decision-making, and cardiovascular medicine.
+
+Contact: nguyed97@mcmaster.ca
 
 <!--
 **nguyenldavid/nguyenldavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
