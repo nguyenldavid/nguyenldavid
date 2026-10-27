@@ -7,7 +7,7 @@ Evidence-based medicine researcher and MD candidate at McMaster University. Buil
 #### Currently
 - Researcher, Evidence-Based Medicine & AI, Health Research Methods, Evidence, and Impact (HEI), McMaster University
 - Researcher, Cardiology, Population Health Research Institute (PHRI), Hamilton
-- President, [Physician Innovator](https://nguyenldavid.github.io/#about), Canada's community for physician entrepreneurs (CMA-affiliated)
+- President, [Physician Innovator](https://physicianinnovator.com), Canada's community for physician entrepreneurs (affiliated with the Canadian Medical Association)
 
 #### Research
 - **AI for evidence synthesis**: Building **Medevi**, an open-source tool to help researchers find, summarize, and assess the quality of medical studies
