@@ -2,7 +2,7 @@
 
 Evidence-based medicine researcher and MD candidate at McMaster University. Building tools to rigorously apply machine intelligence to evidence synthesis, clinical decision-making, and cardiovascular medicine.
 
-🌐 [Website](https://nguyenldavid.github.io) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=-aVo2SUAAAAJ&hl=en) · 💼 [LinkedIn](https://linkedin.com/in/nguyenldavid) · 𝕏 [X](https://x.com/nguyenldavid) · 📄 [CV](https://nguyenldavid.github.io/assets/nguyenldavid_cv.pdf)
+[Website](https://nguyenldavid.github.io) · [Google Scholar](https://scholar.google.com/citations?user=-aVo2SUAAAAJ&hl=en) · [LinkedIn](https://linkedin.com/in/nguyenldavid) · 𝕏 [X](https://x.com/nguyenldavid) · [CV](https://nguyenldavid.github.io/assets/nguyenldavid_cv.pdf)
 
 #### Currently
 - Researcher, Evidence-Based Medicine & AI, Health Research Methods, Evidence, and Impact (HEI), McMaster University
