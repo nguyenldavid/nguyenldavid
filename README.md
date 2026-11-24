@@ -10,7 +10,7 @@ Evidence-based medicine researcher and MD candidate at McMaster University. Buil
 - President, [Physician Innovator](https://physicianinnovator.com), Canada's community for physician entrepreneurs (affiliated with the Canadian Medical Association)
 
 #### Research
-- **AI for evidence synthesis**: Building **Medevi**, an open-source tool to help researchers find, summarize, and assess the quality of medical studies
+- **AI for evidence synthesis**: Building **Medevi**, a collective building open infrastructure for medical evidence synthesis & clinical applications.
 - **AI in clinical medicine**: Implementing machine-learning clinical decision support systems (CDSS)
 - **Cardiovascular medicine**: Effectiveness of interventions for atrial fibrillation, cardiac arrhythmias, and electrophysiology
 - *Previously*: precision oncology, using microscopy and deep learning to build computational assays that make variants of uncertain significance actionable
